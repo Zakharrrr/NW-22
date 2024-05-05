@@ -23,6 +23,6 @@ font-style: italic;
 text-transform: uppercase;
 }
 .text:hover{
-    box-shadow: 8px 3px 5px rgb(109, 2, 180);
+    text-shadow: 8px 3px 5px rgb(109, 2, 180);
 
 }
